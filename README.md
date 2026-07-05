@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/1steve78/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1steve78/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
@@ -55,18 +56,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/1steve78/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1steve78/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/1steve78/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/1steve78/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/1steve78/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 ## Enumeration
 |  |
 | ------- |

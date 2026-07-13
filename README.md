@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/1steve78/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/1steve78/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/1steve78/DSA-Practice/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |

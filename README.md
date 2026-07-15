@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/1steve78/DSA-Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/1steve78/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/1steve78/DSA-Practice/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1steve78/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1steve78/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1steve78/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1steve78/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/1steve78/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

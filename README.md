@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/1steve78/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1steve78/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/1steve78/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1steve78/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1steve78/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1steve78/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1steve78/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1steve78/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1steve78/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Biconnected Component

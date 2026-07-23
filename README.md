@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/1steve78/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/1steve78/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/1steve78/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/1steve78/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/1steve78/DSA-Practice/tree/master/0741-cherry-pickup) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1steve78/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/1steve78/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |

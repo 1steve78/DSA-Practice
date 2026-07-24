@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/1steve78/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1steve78/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/1steve78/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/1steve78/DSA-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/1steve78/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/1steve78/DSA-Practice/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/1steve78/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/1steve78/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/1steve78/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/1steve78/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/1steve78/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/1steve78/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |

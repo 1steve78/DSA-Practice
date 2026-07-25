@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/1steve78/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/1steve78/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/1steve78/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/1steve78/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/1steve78/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/1steve78/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1steve78/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

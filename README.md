@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/1steve78/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1steve78/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1steve78/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1steve78/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/1steve78/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1steve78/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/1steve78/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1steve78/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/1steve78/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/1steve78/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/1steve78/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/1steve78/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/1steve78/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -294,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1steve78/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1steve78/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/1steve78/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/1steve78/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |

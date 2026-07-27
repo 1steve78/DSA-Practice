@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/1steve78/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/1steve78/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/1steve78/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/1steve78/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/1steve78/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/1steve78/DSA-Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/1steve78/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/1steve78/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/1steve78/DSA-Practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/1steve78/DSA-Practice/tree/master/0088-merge-sorted-array) |

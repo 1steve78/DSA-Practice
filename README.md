@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/1steve78/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/1steve78/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/1steve78/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/1steve78/DSA-Practice/tree/master/0063-unique-paths-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/1steve78/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/1steve78/DSA-Practice/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1steve78/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/1steve78/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/1steve78/DSA-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/1steve78/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/1steve78/DSA-Practice/tree/master/0127-word-ladder) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1steve78/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/1steve78/DSA-Practice/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

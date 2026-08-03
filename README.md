@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/1steve78/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/1steve78/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1steve78/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/1steve78/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/1steve78/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/1steve78/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1steve78/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1steve78/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/1steve78/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/1steve78/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/1steve78/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/1steve78/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -371,4 +374,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/1steve78/DSA-Practice/tree/master/0044-wildcard-matching) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

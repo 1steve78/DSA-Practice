@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/1steve78/DSA-Practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/1steve78/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1steve78/DSA-Practice/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/1steve78/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/1steve78/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/1steve78/DSA-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/1steve78/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/1steve78/DSA-Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/1steve78/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/1steve78/DSA-Practice/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/1steve78/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/1steve78/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/1steve78/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1steve78/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1steve78/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/1steve78/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/1steve78/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/1steve78/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/1steve78/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

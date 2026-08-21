@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/1steve78/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/1steve78/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -533,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/1steve78/DSA-Practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/1steve78/DSA-Practice/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

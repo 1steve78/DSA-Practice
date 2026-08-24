@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/1steve78/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/1steve78/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/1steve78/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/1steve78/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/1steve78/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/1steve78/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/1steve78/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/1steve78/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/1steve78/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/1steve78/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/1steve78/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/1steve78/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1steve78/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/1steve78/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/1steve78/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1steve78/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/1steve78/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/1steve78/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/1steve78/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1steve78/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/1steve78/DSA-Practice/tree/master/2063-vowels-of-all-substrings) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/1steve78/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/1steve78/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/1steve78/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/1steve78/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/1steve78/DSA-Practice/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
@@ -509,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/1steve78/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/1steve78/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/1steve78/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/1steve78/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Quicksort
 |  |
 | ------- |

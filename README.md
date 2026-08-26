@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/1steve78/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/1steve78/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/1steve78/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/1steve78/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/1steve78/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -570,4 +572,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1steve78/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/1steve78/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/1steve78/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

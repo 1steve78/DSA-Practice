@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/1steve78/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/1steve78/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/1steve78/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/1steve78/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/1steve78/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/1steve78/DSA-Practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/1steve78/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/1steve78/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/1steve78/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1steve78/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/1steve78/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/1steve78/DSA-Practice/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/1steve78/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/1steve78/DSA-Practice/tree/master/0542-01-matrix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/1steve78/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/1steve78/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/1steve78/DSA-Practice/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/1steve78/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/1steve78/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/1steve78/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/1steve78/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -638,4 +641,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1steve78/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/1steve78/DSA-Practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/1steve78/DSA-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

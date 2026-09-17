@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/1steve78/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/1steve78/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/1steve78/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/1steve78/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1steve78/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/1steve78/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/1steve78/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/1steve78/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/1steve78/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/1steve78/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0983-minimum-cost-for-tickets](https://github.com/1steve78/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/1steve78/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/1steve78/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/1steve78/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
